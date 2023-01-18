@@ -1,6 +1,6 @@
 <h1>Salve, Salve! me chamo Gustavo! Muito Prazer. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> 
 
-- 🌱 Estudo desenvolvimento web.
+- 🌱 Estudo desenvolvimento web na codar.me.
  
 - 🔥 Foco em Desenvolvedor Front-end.
 
