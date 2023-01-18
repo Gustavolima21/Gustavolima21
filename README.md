@@ -4,7 +4,7 @@
  
 - 🔥 Foco em Desenvolvedor Front-end.
 
-- 👓 Desenvolvo alguns projetos pessoais <br/>
+- 👓 Desenvolvo alguns projetos. <br/>
 
 Minha stack atual:
 <div style="display: inline_block">
